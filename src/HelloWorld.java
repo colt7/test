@@ -12,6 +12,8 @@ public class HelloWorld {
 		
 		// local repository to server
 		
+		System.out.println("Not only a simple Hello World!");
+		
 	}
 	
 	
