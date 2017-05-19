@@ -10,7 +10,7 @@ public class HelloWorld {
 		System.out.println("Not only a simple Hello World!");
 		// DELETE the second println
 		
-		// non mi piace qua il commento
+		// server side copy
 		
 	}
 	
