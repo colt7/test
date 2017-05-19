@@ -10,7 +10,7 @@ public class HelloWorld {
 		System.out.println("Not only a simple Hello World!");
 		// DELETE the second println
 		
-		// il commento lo metto qua
+		// a me si
 		
 	}
 	
