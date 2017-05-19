@@ -10,6 +10,8 @@ public class HelloWorld {
 		System.out.println("Not only a simple Hello World!");
 		
 		
+		// il commento lo metto qua
+		
 	}
 	
 	
