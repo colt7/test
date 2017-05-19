@@ -10,7 +10,7 @@ public class HelloWorld {
 		System.out.println("Not only a simple Hello World!");
 		// DELETE the second println
 		
-		// a me si
+		// local repository
 		
 	}
 	
